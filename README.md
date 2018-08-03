@@ -1,4 +1,4 @@
-# invie-repo1
-Un repo de prueba para conocer los misterios de GitHub.
+# invie
+Las guitarras más locas
 
-Precisamente aqui es donde estamos aprendiendo a usar fetch para comunicar una branch de github hacia el git local, enlazada previamente con remote.
+http://invie.website
